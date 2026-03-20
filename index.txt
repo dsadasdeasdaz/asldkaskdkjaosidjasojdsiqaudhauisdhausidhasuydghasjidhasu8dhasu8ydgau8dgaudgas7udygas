@@ -1,1 +1,1 @@
-ip=104.234.119.129 ativado=true
+ip=104.234.21231119.129 ativado=falsa
